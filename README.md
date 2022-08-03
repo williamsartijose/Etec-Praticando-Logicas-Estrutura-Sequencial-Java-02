@@ -4,7 +4,6 @@
 
 Testando a Logica de Programação usando as Estrutura sequencial = https://github.com/williamsartijose/Etec-CursoBasicoJava/tree/main/src/Secao4EstruturaSequencial
 
-
 ## Layout dos Exercício 
 #### Problema "terreno"
 Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma 
